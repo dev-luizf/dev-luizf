@@ -1,4 +1,4 @@
-Ei, me chamo Luiz Furtado, sou de Teresina-PI, Brasil e tenho 23 anos. Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)🚀.
+Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)🚀.
 
 - 👩🏽‍💻 Desenvolvedor full-stack
 - 👩🏽‍🎓 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
