@@ -22,6 +22,8 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Atualmente estudo
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=Express&logoColor=black)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=flat-square&logo=prisma&logoColor=0c344b)
+![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=flat-square&logo=sequelize&logoColor=00b1ea)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
