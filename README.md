@@ -33,9 +33,9 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Atualmente estudo
 
 <div>
 <a href="https://github.com/dev-luizf">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=dracula" alt="dev-luizf" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
 </a>
 <a href="https://github.com/dev-luizf">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=dracula" alt="dev-luizf" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight" alt="dev-luizf" />
 </a>
 </div>
