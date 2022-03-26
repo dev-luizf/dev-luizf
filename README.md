@@ -1,10 +1,10 @@
 ## Quem sou eu
 
-Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)🚀.
+Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou um desenvolvedor que tem paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
 
-- 💻 Desenvolvedor Full-Stack
-- 🔎 Tenho paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser
+- 💻 Desenvolvedor FullStack
 - 💬 Colaboração é um valor, adoro ajudar!
+- 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀.
 - 📬 Para entrar em contato comigo, por favor, envie um email para `luizfurtadomkt@hotmail.com` ou me chama no [Linkedin](https://www.linkedin.com/in/luizfurtado/)
 
 ## Tecnologias e ferramentas
@@ -29,12 +29,6 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Atualmente estudo
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-
-## Me encontre
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfurtado/)](https://www.linkedin.com/in/luizfurtado/)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-eeeeee?style=flat-square&logo=microsoftoutlook&logoColor=blue)](luizfurtadomkt@hotmail.com)
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
