@@ -5,7 +5,7 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou um desenvolve
 - 💻 Desenvolvedor FullStack
 - 💬 Colaboração é um valor, adoro ajudar!
 - 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀.
-- 📬 Para entrar em contato comigo, por favor, envie um email para `luizfurtadomkt@hotmail.com` ou me chama no [Linkedin](https://www.linkedin.com/in/luizfurtado/)
+- 📬 Para entrar em contato comigo, por favor, envie um email para `luizfurtadomkt@hotmail.com` ou me chame no [Linkedin](https://www.linkedin.com/in/luizfurtado/)
 
 ## Tecnologias e ferramentas
 
