@@ -1,6 +1,6 @@
 ## Quem sou eu
 
-Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou um desenvolvedor que tem paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
+Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado por tecnologia desde pequeno, quando jogava joguinhos de browser. Como um desenvolvedor, tenho paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
 
 - 💻 Desenvolvedor FullStack
 - 💬 Colaboração é um valor, adoro ajudar!
