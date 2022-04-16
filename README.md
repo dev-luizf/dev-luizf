@@ -9,7 +9,7 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 - 
 ## O que estou buscando
 
-Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um ambiente diverso e com oportunidade de crescimento.
+Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um ambiente diverso e com oportunidade de crescimento. 🧐
 
 ## Tecnologias e ferramentas
 
