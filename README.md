@@ -33,6 +33,7 @@ Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um am
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit)
 
 # Me encontre
 
