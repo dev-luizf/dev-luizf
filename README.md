@@ -33,7 +33,7 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 ## Me encontre
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfurtado/)](https://www.linkedin.com/in/luizfurtado/)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](luizfurtadomkt@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luizfurtadomkt@hotmail.com)](mailto:luizfurtadomkt@hotmail.com)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
