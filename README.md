@@ -1,6 +1,3 @@
-<meta property="og:image" content="https://i.pinimg.com/736x/45/fd/23/45fd23068e0a98a7024b55012583ca24.jpg" />
-<meta name="twitter:image" content="https://i.pinimg.com/736x/45/fd/23/45fd23068e0a98a7024b55012583ca24.jpg" />
-
 ## Quem sou eu
 
 Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado por tecnologia desde pequeno, quando jogava joguinhos de browser. Como um desenvolvedor, tenho paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
