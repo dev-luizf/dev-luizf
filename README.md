@@ -6,7 +6,7 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 - 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀.
 - 💬 Colaboração é um valor, adoro ajudar! Na minha turma estou sempre colaborando com os colegas e respondendo dúvidas no slack
 - 📬 Para entrar em contato comigo, por favor, envie um email para `luizfurtadomkt@hotmail.com` ou me chame no [Linkedin](https://www.linkedin.com/in/luizfurtado/)
-- 
+
 # O que estou buscando
 
 Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um ambiente diverso e com oportunidade de crescimento. 🧐
