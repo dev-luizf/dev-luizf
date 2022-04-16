@@ -1,4 +1,5 @@
 <meta property="og:image" content="https://i.pinimg.com/736x/45/fd/23/45fd23068e0a98a7024b55012583ca24.jpg" />
+<meta name="twitter:image" content="https://i.pinimg.com/736x/45/fd/23/45fd23068e0a98a7024b55012583ca24.jpg" />
 
 ## Quem sou eu
 
