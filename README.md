@@ -1,4 +1,4 @@
-## Quem sou eu
+# Quem sou eu
 
 Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado por tecnologia desde pequeno, quando jogava joguinhos de browser. Como um desenvolvedor, tenho paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
 
@@ -7,11 +7,11 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 - 💬 Colaboração é um valor, adoro ajudar! Na minha turma estou sempre colaborando com os colegas e respondendo dúvidas no slack
 - 📬 Para entrar em contato comigo, por favor, envie um email para `luizfurtadomkt@hotmail.com` ou me chame no [Linkedin](https://www.linkedin.com/in/luizfurtado/)
 - 
-## O que estou buscando
+# O que estou buscando
 
 Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um ambiente diverso e com oportunidade de crescimento. 🧐
 
-## Tecnologias e ferramentas
+# Tecnologias e ferramentas
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ Estou em busca da minha primeira oportunidade no mercado de tecnologia, em um am
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
-## Me encontre
+# Me encontre
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfurtado/)](https://www.linkedin.com/in/luizfurtado/)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luizfurtadomkt@hotmail.com)](mailto:luizfurtadomkt@hotmail.com)
