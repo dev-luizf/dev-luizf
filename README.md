@@ -1,5 +1,12 @@
 # Quem sou eu
 
+<a href="mailto:luizfurtadomkt@hotmail.com" target="_blank">
+  <img align="right" src="https://user-images.githubusercontent.com/83927877/163906380-ec24ea7f-9552-4780-912c-346eb28eaaa5.png" alt="outlook icon">
+</a>
+<a href="https://www.linkedin.com/in/luizfurtado/" target="_blank">
+  <img align="right" src="https://user-images.githubusercontent.com/83927877/163906575-7e7d8d55-ea20-47f3-85b0-80b4643e87c4.png" alt="linkedin icon">
+</a>
+
 Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado por tecnologia desde pequeno, quando jogava joguinhos de browser. Como um desenvolvedor, tenho paixão em encontrar e resolver bugs e fazer com que as aplicações realmente funcionem do jeito que foram projetadas para ser. 🔎
 
 - 💻 Desenvolvedor Full Stack
@@ -30,14 +37,7 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Me encontre
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfurtado/)](https://www.linkedin.com/in/luizfurtado/)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luizfurtadomkt@hotmail.com)](mailto:luizfurtadomkt@hotmail.com)
-
-<a href="https://github.com/dev-luizf">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
-</a>
-<a href="https://github.com/dev-luizf">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight" alt="dev-luizf" />
-</a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight" alt="dev-luizf" />
+</div>
