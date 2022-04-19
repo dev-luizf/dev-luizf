@@ -15,13 +15,13 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 
 # Meus projetos
 
-<a href="https://github.com/dev-luizf/trybesmith-project">
+<a href="https://github.com/dev-luizf/trybesmith-project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/dev-luizf/my-recipes-app">
+<a href="https://github.com/dev-luizf/my-recipes-app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=my-recipes-app&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/dev-luizf/heroku-exercise-backend">
+<a href="https://github.com/dev-luizf/heroku-exercise-backend" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=heroku-exercise-backend&theme=react&hide_border=true" />
 </a>
 
