@@ -13,13 +13,16 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 - 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
 - 💬 Colaboração é um valor, adoro ajudar! Na minha turma estou sempre colaborando com os colegas e respondendo dúvidas no slack
 
-## Meus projetos
+# Meus projetos
 
-<a href="https://github.com/dev-luizf">
+<a href="https://github.com/dev-luizf/trybesmith-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/dev-luizf">
+<a href="https://github.com/dev-luizf/my-recipes-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=my-recipes-app&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/dev-luizf/heroku-exercise-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=heroku-exercise-backend&theme=react&hide_border=true" />
 </a>
 
 # Tecnologias e ferramentas
