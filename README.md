@@ -37,7 +37,5 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&show_icons=true&theme=tokyonight" alt="dev-luizf" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight" alt="dev-luizf" />
-</div>
+| <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="luiz's github stats" /></a> | <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
