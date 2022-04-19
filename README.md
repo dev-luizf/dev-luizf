@@ -13,6 +13,12 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 - 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
 - 💬 Colaboração é um valor, adoro ajudar! Na minha turma estou sempre colaborando com os colegas e respondendo dúvidas no slack
 
+## Meus projetos
+
+<a href="https://github.com/dev-luizf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react" />
+</a>
+
 # Tecnologias e ferramentas
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
@@ -37,5 +43,5 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-| <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="luiz's github stats" /></a> | <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="luiz's github stats" /></a> | <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
