@@ -18,11 +18,11 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 <a href="https://github.com/dev-luizf/trybesmith-project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/dev-luizf/my-recipes-app" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=my-recipes-app&theme=react&hide_border=true" />
+<a href="https://github.com/dev-luizf/rick-and-morty-chars" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=rick-and-morty-chars&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/dev-luizf/heroku-exercise-backend" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=heroku-exercise-backend&theme=react&hide_border=true" />
+<a href="https://github.com/dev-luizf/cpf-control" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=cpf-control&theme=react&hide_border=true" />
 </a>
 
 # Tecnologias e ferramentas
