@@ -16,13 +16,13 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 # Meus projetos
 
 <a href="https://github.com/dev-luizf/trybesmith-project" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-gold-delta.vercel.app/api/pin/?username=dev-luizf&repo=trybesmith-project&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/dev-luizf/rick-and-morty-chars" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=rick-and-morty-chars&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-gold-delta.vercel.app/api/pin/?username=dev-luizf&repo=rick-and-morty-chars&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/dev-luizf/cpf-control" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-luizf&repo=cpf-control&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-gold-delta.vercel.app/api/pin/?username=dev-luizf&repo=cpf-control&theme=react&hide_border=true" />
 </a>
 
 # Tecnologias e ferramentas
@@ -49,5 +49,5 @@ Oi, me chamo Luiz Furtado, sou de Teresina-PI e tenho 23 anos. Sou apaixonado po
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-| <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-luizf&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="luiz's github stats" /></a> | <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=react&hide_border=true" /></a> |
+| <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats-gold-delta.vercel.app/api?username=dev-luizf&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="luiz's github stats" /></a> | <a href="https://github.com/dev-luizf"><img height="180em" align="center" src="https://github-readme-stats-gold-delta.vercel.app/api/top-langs/?username=dev-luizf&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
